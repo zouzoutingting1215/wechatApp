@@ -1,0 +1,2 @@
+<include src="../../component/carousel/carousel.wxml" />
+<include src="../../component/menu/menu.wxml" />

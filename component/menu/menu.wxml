@@ -1,0 +1,6 @@
+<view class="menu_container">
+    <view class="menu_item" wx:for="{{menus}}" wx:for-index="idx" wx:for-item="menu">
+        <image class="menu_icon" src="{{menu.url}}" />
+        <text class="menu_name">{{menu.name}}</text>
+    </view>
+</view>
